@@ -28,7 +28,7 @@ use App\Http\Controllers\AuthController;
 // // Route::get('/register', [AuthController::class, 'tampil_register',]);
 // Route::get('/a', function(){
 //     return "petugas";
-// });
+// });sad
 // Route::post('/login', [AuthController::class, 'tampil_login',]);
 // Route::get('/login', [AuthController::class, 'login',])->name('login');
 // // Route::get('/petugas_login', [petugasController::class, 'petugas_login']);

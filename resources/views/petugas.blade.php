@@ -10,6 +10,7 @@
   <title>Petugas</title>
 </head>
 
+
 <body>
   @include('layouts.navbar')
 

@@ -19,4 +19,5 @@ class petugas extends Authenticatable
         "level"
     ];
     protected $table ="petugas";
+    
 }
